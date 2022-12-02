@@ -1,0 +1,11 @@
+--2022-11-30 23:28:07--  https://www.google.com/url?q=https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
+Resolving www.google.com (www.google.com)... 142.251.42.36, 2404:6800:4009:830::2004
+Connecting to www.google.com (www.google.com)|142.251.42.36|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘url?q=https:%2F%2Fraw.githubusercontent.com%2Favnyadav%2Fsensor-fault-detection%2Fmain%2Faps_failure_training_set1.csv’
+
+               url?q=https:%2F     [<=>                                               ]       0  --.-KB/s               url?q=https:%2F%2Fraw.githubus     [ <=>                                              ]   1.59K  --.-KB/s    in 0s      
+
+2022-11-30 23:28:07 (16.0 MB/s) - ‘url?q=https:%2F%2Fraw.githubusercontent.com%2Favnyadav%2Fsensor-fault-detection%2Fmain%2Faps_failure_training_set1.csv’ saved [1629]
+
